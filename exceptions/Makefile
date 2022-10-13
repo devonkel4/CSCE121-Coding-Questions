@@ -25,5 +25,5 @@ clean:
 	rm -f schedule out.trace ./test-files/cmd*.txt
 
 test: all
-	chmod u+x le4-tests.sh
-	./le4-tests.sh
+	chmod u+x autograde_exceptions.sh
+	./autograde_exceptions.sh
