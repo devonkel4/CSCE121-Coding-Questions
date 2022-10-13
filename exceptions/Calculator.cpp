@@ -1,5 +1,6 @@
 #include "Calculator.h"
 #include <string>
+#include <stdexcept>
 /*
  * Input: Positive integer in the form of a string, num
  * Output: The factorial of num
